@@ -1,0 +1,6 @@
+C:\Users\Frank\source\repos\ViewPurge\ViewPurge\bin\Debug\ViewPurge.dll
+C:\Users\Frank\source\repos\ViewPurge\ViewPurge\bin\Debug\ViewPurge.pdb
+C:\Users\Frank\source\repos\ViewPurge\ViewPurge\obj\Debug\ViewPurge.csproj.AssemblyReference.cache
+C:\Users\Frank\source\repos\ViewPurge\ViewPurge\obj\Debug\ViewPurge.csproj.CoreCompileInputs.cache
+C:\Users\Frank\source\repos\ViewPurge\ViewPurge\obj\Debug\ViewPurge.dll
+C:\Users\Frank\source\repos\ViewPurge\ViewPurge\obj\Debug\ViewPurge.pdb

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command ViewPurge</Text>
+    <Description>Clean unselected views fast!</Description>
+    <Assembly>ViewPurge.dll</Assembly>
+    <FullClassName>ViewPurge.Command</FullClassName>
+    <ClientId>c3f33a65-4994-4076-a432-0795183acdec</ClientId>
+	  <VendorId>frank.kuenneke@technologyarchitecturedesign.com</VendorId>
+	  <VendorDescription>Frank Kuenneke, TAD BIM Specialist</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application ViewPurge</Name>
+    <Assembly>ViewPurge.dll</Assembly>
+    <FullClassName>ViewPurge.App</FullClassName>
+    <ClientId>ba3e20e5-27d1-45f3-a5fb-7fa362469601</ClientId>
+    <VendorId>frank.kuenneke@technologyarchitecturedesign.com</VendorId>
+    <VendorDescription>Frank Kuenneke, TAD BIM Specialist</VendorDescription>
+  </AddIn>
+</RevitAddIns>
